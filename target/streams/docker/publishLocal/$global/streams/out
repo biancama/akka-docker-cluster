@@ -1,0 +1,59 @@
+[0m[[0mdebug[0m] [0mExecuting docker build --force-rm -t biancama/akka-docker:1.0 .[0m
+[0m[[0mdebug[0m] [0mWorking directory /Users/massimo/git_repo/akka/akka-docker-cluster/target/docker/stage[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 557.1 kB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 1.114 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 1.671 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 2.228 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 2.785 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 3.342 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 3.899 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 4.456 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 5.014 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 5.571 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 6.128 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 6.685 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon  7.24 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 7.766 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 8.323 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon  8.88 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 9.437 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 9.994 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 10.55 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 11.11 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 11.67 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 12.22 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 12.78 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 13.34 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 13.89 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 14.45 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 14.84 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 14.84 MB[0m
+[0m[[0minfo[0m] [0mStep 0 : FROM java[0m
+[0m[[0minfo[0m] [0m ---> 5282faca75e8[0m
+[0m[[0minfo[0m] [0mStep 1 : MAINTAINER Massimo Biancalani <massimo.biancalani@gmail.com>[0m
+[0m[[0minfo[0m] [0m ---> Using cache[0m
+[0m[[0minfo[0m] [0m ---> af797ac6c135[0m
+[0m[[0minfo[0m] [0mStep 2 : WORKDIR /opt/docker[0m
+[0m[[0minfo[0m] [0m ---> Using cache[0m
+[0m[[0minfo[0m] [0m ---> 402f8893b9d8[0m
+[0m[[0minfo[0m] [0mStep 3 : ADD opt /opt[0m
+[0m[[0minfo[0m] [0m ---> cd823f7fd032[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 706a37f38332[0m
+[0m[[0minfo[0m] [0mStep 4 : RUN chown -R daemon:daemon .[0m
+[0m[[0minfo[0m] [0m ---> Running in 7fbe70445105[0m
+[0m[[0minfo[0m] [0m ---> f8425977b433[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 7fbe70445105[0m
+[0m[[0minfo[0m] [0mStep 5 : USER daemon[0m
+[0m[[0minfo[0m] [0m ---> Running in fa611ac5600d[0m
+[0m[[0minfo[0m] [0m ---> 51a65829c979[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container fa611ac5600d[0m
+[0m[[0minfo[0m] [0mStep 6 : ENTRYPOINT bin/akka-docker[0m
+[0m[[0minfo[0m] [0m ---> Running in b54f389cd3a9[0m
+[0m[[0minfo[0m] [0m ---> 744c5965608f[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container b54f389cd3a9[0m
+[0m[[0minfo[0m] [0mStep 7 : CMD [0m
+[0m[[0minfo[0m] [0m ---> Running in bace04dbaf7b[0m
+[0m[[0minfo[0m] [0m ---> 78d74eab7e0f[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container bace04dbaf7b[0m
+[0m[[0minfo[0m] [0mSuccessfully built 78d74eab7e0f[0m
+[0m[[0minfo[0m] [0mBuilt image biancama/akka-docker:1.0[0m

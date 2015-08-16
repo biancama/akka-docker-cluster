@@ -1,0 +1,375 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+20 items
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$1.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1$$anonfun$apply$1.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1$$anonfun$apply$2.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$$anonfun$1.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$delayedInit$body.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/Main.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/MonitorActor$$anonfun$receive$1.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/MonitorActor.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$3.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$4.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$5.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anonfun$1.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anonfun$2.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$.class
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig.class
+binary dependencies:
+13 items
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/massimo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/massimo/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-M2.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/massimo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Users/massimo/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-M2.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Users/massimo/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4-M2.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Users/massimo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/.ivy2/cache/com.github.scopt/scopt_2.11/jars/scopt_2.11-3.3.0.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+20 items
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP$
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP$$anonfun$1
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP$$anonfun$load$1
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP$$anonfun$load$1$$anonfun$apply$1
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP$$anonfun$load$1$$anonfun$apply$2
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> com.example.Main
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> com.example.Main$
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> com.example.Main$$anonfun$1
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> com.example.Main$delayedInit$body
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> com.example.MonitorActor
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> com.example.MonitorActor$$anonfun$receive$1
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anon$1
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anon$1$$anonfun$3
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anon$1$$anonfun$4
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anon$1$$anonfun$5
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anonfun$1
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anonfun$2
+used names:
+205 items
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> <init>
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> AnyRef
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> HostIP
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> JavaConversions
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> NetworkInterface
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> Option
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> Predef
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> String
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> collection
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> enumerationAsScalaIterator
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> equals
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> example
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> find
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> flatMap
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> getHostAddress
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> getInetAddresses
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> getName
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> getNetworkInterfaces
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> inet
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> interface
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> interfaces
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> isSiteLocalAddress
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> java
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> map
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> net
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> scala
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> <init>
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> ActorSystem
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> App
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> ClassTag
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> InetAddress
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> JavaConversions
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> Main
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> MonitorActor
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> NetworkInterface
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> NodeConfig
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> Predef
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> Props
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> StringContext
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> actor
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> actorOf
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> akka
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> apply
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> args
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> c
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> clusterName
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> collection
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> com
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> config
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> example
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> info
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> java
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> log
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> map
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> materializeClassTag
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> name
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> net
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> nodeConfig
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> package
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> parse
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> s
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> scala
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> system
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> typesafe
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> wrapRefArray
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> <init>
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> A1
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> Actor
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> ActorLogging
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> B1
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> Cluster
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> ClusterEvent
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> Function1
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> InitialStateAsEvents
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> MonitorActor
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> StringContext
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> Unit
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> actor
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> address
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> akka
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> apply
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> asInstanceOf
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> cluster
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> com
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> context
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> debug
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> example
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> info
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> isInstanceOf
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> log
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> member
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> roles
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> s
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> scala
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> self
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> subscribe
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> system
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> unchecked
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> unsubscribe
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> warning
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> !=
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> $anon
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> &&
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> :+
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> <init>
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ==
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> AnyRef
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Boolean
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> CLUSTER_NAME_PATH
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> CLUSTER_NODE
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Config
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ConfigFactory
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ConfigResolveOptions
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ConfigValueFactory
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> HostIP
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> JavaConversions
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> NodeConfig
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> None
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Option
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> OptionParser
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Predef
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Product
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Read
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> SEED_NODE
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ScalaRunTime
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Seq
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Serializable
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Statics
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> String
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> StringContext
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Unit
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> _toString
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> action
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> anyHash
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> arg
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> args
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> asConfig
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> asInstanceOf
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> c
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> canBuildFrom
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> checkConfig
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> clusterName
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> collection
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> config
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> configPath
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> defaults
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> empty
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> eq
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> example
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> failure
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> finalizeHash
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> fromAnyRef
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> get
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> getClass
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> getClassLoader
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> getOrElse
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> getString
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> hasPath
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> head
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ip
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ipValue
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> isEmpty
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> isInstanceOf
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> isSeed
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> lengthCompare
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> load
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> map
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> mix
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> mkString
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> n
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> name
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ne
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> node
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> opt
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> optional
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> package
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> parse
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> parseResources
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> parseString
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> parser
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> resolve
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> runtime
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> s
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> scala
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> scopt
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> seedNodes
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> seedNodesString
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> setAllowUnresolved
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> stringRead
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> success
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> text
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> toString
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> typedProductIterator
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> typesafe
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> unapplySeq
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> unary_!
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> unbounded
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> unitRead
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> withFallback
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> withValue
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> x$2
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> x$3
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ||
+product stamps:
+20 items
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$1.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1$$anonfun$apply$1.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1$$anonfun$apply$2.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$$anonfun$1.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$delayedInit$body.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/Main.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/MonitorActor$$anonfun$receive$1.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/MonitorActor.class -> lastModified(1439711302000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$3.class -> lastModified(1439721511000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$4.class -> lastModified(1439721511000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$5.class -> lastModified(1439721511000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1.class -> lastModified(1439721511000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anonfun$1.class -> lastModified(1439721511000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anonfun$2.class -> lastModified(1439721511000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$.class -> lastModified(1439721511000)
+/Users/massimo/git_repo/akka/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig.class -> lastModified(1439721511000)
+source stamps:
+4 items
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> hash(9e9af75f508a44b086300e2630ee2ae7256e6c3c)
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> hash(75f591084b7d5ce5eedb0ac3a269e45f3fd03477)
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> hash(fdae7246965c6109e3bfe6836c0a3334400801d2)
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> hash(effbf43b53424e38dee198a89569b58ba6e95d1c)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1411773837000)
+/Users/massimo/.ivy2/cache/com.github.scopt/scopt_2.11/jars/scopt_2.11-3.3.0.jar -> lastModified(1418606531000)
+/Users/massimo/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-M2.jar -> lastModified(1435330597000)
+/Users/massimo/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4-M2.jar -> lastModified(1435330788000)
+/Users/massimo/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099969000)
+/Users/massimo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/massimo/.ivy2/cache/com.github.scopt/scopt_2.11/jars/scopt_2.11-3.3.0.jar -> scopt.OptionParser
+/Users/massimo/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-M2.jar -> akka.actor.ActorLogging
+/Users/massimo/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4-M2.jar -> akka.cluster.Member
+/Users/massimo/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.ConfigResolveOptions
+/Users/massimo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Serializable
+internal apis:
+4 items
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD+F+7jAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHcWT8x0AAZub3RpZnlzcQB+AAwL4CAAdAAEd2FpdHNxAH4ADPe0X/F0AA0kYXNJbnN0YW5jZU9mc3EAfgAMNuro53QABmVxdWFsc3NxAH4ADBIm6O90AAxhc0luc3RhbmNlT2ZzcQB+AAxclcb1dAAMc3luY2hyb25pemVkc3EAfgAMk/HuwXQADSRpc0luc3RhbmNlT2ZzcQB+AAylqVbudAAEbG9hZHNxAH4ADGem9VF0AAlub3RpZnlBbGxzcQB+AAzW0RIBdAAMaXNJbnN0YW5jZU9mc3EAfgAMPTnjb3QAAj09c3EAfgAMV9gzXHQABWNsb25lc3EAfgAMVLrci3QACHRvU3RyaW5nc3EAfgAMJyTvX3QAAiE9c3EAfgAMSCYo6HQACGdldENsYXNzc3EAfgAMOp473XQAAm5lc3EAfgAM8mQmAHQABkhvc3RJUHNxAH4ADPV38fV0AAJlcXNxAH4ADL5ieMB0AAIjI3NxAH4ADAIjbzZ0AAhmaW5hbGl6ZXNxAH4ADDFAv9R0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABJjb20uZXhhbXBsZS5Ib3N0SVB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBaeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZAHBzcQB+AF5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBic3EAfgBZAHBzcQB+AF51cQB+ADwAAAAAc3EAfgBZAHBzcQB+AF51cQB+ADwAAAAAc3EAfgBZAHBzcQB+AF51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbS5leGFtcGxlc3EAfgCPdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFPNXr+83VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEovVXNlcnMvbWFzc2ltby9naXRfcmVwby9ha2thL2Fra2EtZG9ja2VyLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJ6a919QikSwhjAOJjDuKuclbmw8
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBc3ggcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCssd+Z0AAZub3RpZnlzcQB+AAwnl6DadAAEd2FpdHNxAH4ADNk8bIt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMXUEIy3QABmVxdWFsc3NxAH4ADMsmAYl0AAxhc0luc3RhbmNlT2ZzcQB+AAzndNZpdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAzQDk8xdAAMc3luY2hyb25pemVkc3EAfgAMofMH9HQADSRpc0luc3RhbmNlT2ZzcQB+AAy12ImtdAAEbWFpbnNxAH4ADALfYMp0AAlub3RpZnlBbGxzcQB+AAyhZlYAdAAMaXNJbnN0YW5jZU9mc3EAfgAM7y0RmnQAAj09c3EAfgAMGJQtSnQABWNsb25lc3EAfgAM7LbwnnQABE1haW5zcQB+AAyOQryldAAKbm9kZUNvbmZpZ3NxAH4ADGZKZg90AAh0b1N0cmluZ3NxAH4ADEQZ6xh0AARhcmdzc3EAfgAMH4ceqXQAAiE9c3EAfgAMT5GqXHQACGdldENsYXNzc3EAfgAM1pEK1HQAAm5lc3EAfgAMiOxUX3QAAmVxc3EAfgAMpJbRgHQAC2RlbGF5ZWRJbml0c3EAfgAMoufox3QAAiMjc3EAfgAMiXrENHQACGZpbmFsaXplc3EAfgAMlqyxxnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEGNvbS5leGFtcGxlLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBkeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBjAHBzcQB+AGhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBsc3EAfgBjAHBzcQB+AGh1cQB+AEQAAAAAc3EAfgBjAHBzcQB+AGh1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHl4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Aa3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCTc3EAfgBWAHEAfgAfdXEAfgBZAAAAAHNxAH4AhnQABFVuaXRxAH4AjHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFx0AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCHWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBrc3EAfgCGdAAFQXJyYXlxAH4AjHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCGdAAGU3RyaW5nc3EAfgCKc3EAfgCNdXEAfgCQAAAAA3NxAH4AknQABGphdmFzcQB+AJJ0AARsYW5ncQB+AJdzcQB+AGMAcHNxAH4AaHVxAH4ArgAAAARzcQB+AIZ0AANBcHBxAH4AjHNxAH4AhnQAC0RlbGF5ZWRJbml0cQB+AIxzcQB+AIZ0AAZPYmplY3RxAH4AsnNxAH4AhnQAA0FueXEAfgCMdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALY29tLmV4YW1wbGVzcQB+AMZ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU81ev7zdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9tYXNzaW1vL2dpdF9yZXBvL2Fra2EvYWtrYS1kb2NrZXItY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdfWRCEt9XOXu2wrDomnkXz/QNHc=
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDHcYihAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwApNuLHQABHNlbGZzcQB+AAtH8ZmOdAAHY29udGV4dHVxAH4ACQAAACVzcQB+AAsu0q+VdAAGbm90aWZ5c3EAfgALKcWKcXQAB1JlY2VpdmVzcQB+AAvz+ZtfdAAEd2FpdHNxAH4AC1LSP110AA0kYXNJbnN0YW5jZU9mc3EAfgALLbIAVnQABmVxdWFsc3NxAH4AC2L/vwF0AAxhc0luc3RhbmNlT2ZzcQB+AAsKkV4PdAAMc3luY2hyb25pemVkc3EAfgAL0bnP93QADSRpc0luc3RhbmNlT2ZzcQB+AAvKMmTodAAHcmVjZWl2ZXNxAH4ACw1iz+R0AApwcmVSZXN0YXJ0c3EAfgALw7t1VnQADWFyb3VuZFJlY2VpdmVzcQB+AAuM5E52dAALcG9zdFJlc3RhcnRzcQB+AAsa8j4wdAAIcG9zdFN0b3BzcQB+AAuv/H7HdAAJbm90aWZ5QWxsc3EAfgALUZMEhnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALc4pg7HQADE1vbml0b3JBY3RvcnNxAH4AC0ogln50AAxpc0luc3RhbmNlT2ZzcQB+AAtceRosdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC4O0gSl0AA5hcm91bmRQb3N0U3RvcHNxAH4AC694/WR0AAdjbHVzdGVyc3EAfgALf84wjnQABjxpbml0PnNxAH4ACx5KNBJ0AAhwcmVTdGFydHNxAH4AC1+Im8Z0AAl1bmhhbmRsZWRzcQB+AAvPvt8KdAACPT1zcQB+AAtuTH3KdAAFY2xvbmVzcQB+AAtroRG7dAAGc2VuZGVyc3EAfgALbxPthHQACHRvU3RyaW5nc3EAfgALkl0WU3QAAiE9c3EAfgAL8gAlynQACGdldENsYXNzc3EAfgALehyXQXQAAm5lc3EAfgALE3ed03QAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACxLFzFh0AAJlcXNxAH4AC1ZjTP90AANsb2dzcQB+AAvjU/+RdAACIyNzcQB+AAv6vsFUdAAIZmluYWxpemVzcQB+AAtlsun6dAAIaGFzaENvZGVzcQB+AAspXjBjdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAYY29tLmV4YW1wbGUuTW9uaXRvckFjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB+eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB9AHBzcQB+AIJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCGc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIV0AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKJ0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCjc3EAfgCWdAAFQWN0b3JxAH4AnHNxAH4AlnQABk9iamVjdHNxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJ0AARqYXZhc3EAfgCidAAEbGFuZ3EAfgCpc3EAfgCWdAADQW55c3EAfgCac3EAfgCddXEAfgCgAAAAAnNxAH4AonQABXNjYWxhcQB+AKl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb20uZXhhbXBsZXNxAH4AvnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTzV6/vN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABKL1VzZXJzL21hc3NpbW8vZ2l0X3JlcG8vYWtrYS9ha2thLWRvY2tlci1jbHVzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT9rnJGllxhCeO/5oNsCjM0QAgB0g==
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCI2txVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMHLzBF0AAZub3RpZnlzcQB+AAx/qnlgdAAHdW5hcHBseXNxAH4ADFQFJUd0AAR3YWl0c3EAfgAMSl7mcHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMiusGhHQADSRhc0luc3RhbmNlT2ZzcQB+AAwU7w2zdAAQPGluaXQ+JGRlZmF1bHQkMXNxAH4ADNAH+c90AAxwcm9kdWN0QXJpdHlzcQB+AAyhtSgwdAAGZXF1YWxzc3EAfgAM8g9EnHQACk5vZGVDb25maWdzcQB+AAzep9tNdAAMYXNJbnN0YW5jZU9mc3EAfgAMJ0+B53QAEUNMVVNURVJfTkFNRV9QQVRIc3EAfgAMQFTRtHQADHN5bmNocm9uaXplZHNxAH4ADKwCdjt0AA0kaXNJbnN0YW5jZU9mc3EAfgAMSIxe+3QADENMVVNURVJfTk9ERXNxAH4ADGJxHqN0AAZpc1NlZWRzcQB+AAz9yXoqdAAIY2FuRXF1YWxzcQB+AAwQZBwqdAAGY29uZmlnc3EAfgAML86TJXQADXByb2R1Y3RQcmVmaXhzcQB+AAx7NXjQdAAJbm90aWZ5QWxsc3EAfgAM9Q/V/XQAC3JlYWRSZXNvbHZlc3EAfgAMoq3t8HQADGlzSW5zdGFuY2VPZnNxAH4ADEsVk9p0AAhhc0NvbmZpZ3NxAH4ADKhbJnR0AAY8aW5pdD5zcQB+AAykIOMndAAJc2VlZE5vZGVzc3EAfgAMdqVeanQAD2FwcGx5JGRlZmF1bHQkMnNxAH4ADP1mAQN0AAVhcHBseXNxAH4ADJ/f+Sx0AAVwYXJzZXNxAH4ADP99ItJ0AAI9PXNxAH4ADOCXKNB0AAVjbG9uZXNxAH4ADB84kS90AARjb3B5c3EAfgAMUJ+h8XQAD2FwcGx5JGRlZmF1bHQkMXNxAH4ADIl+z8t0AAh0b1N0cmluZ3NxAH4ADGc36UF0AAIhPXNxAH4ADO2zIVB0AAhnZXRDbGFzc3NxAH4ADH1g/uN0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADM46Hp50AAlTRUVEX05PREVzcQB+AAwkyHFNdAALY2x1c3Rlck5hbWVzcQB+AAy3NCIudAACbmVzcQB+AAxCoX3+dAAQPGluaXQ+JGRlZmF1bHQkMnNxAH4ADJSr4lZ0AAJlcXNxAH4ADEeFqCh0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyToq/edAACIyNzcQB+AAxLS15+dAAIZmluYWxpemVzcQB+AAybN5vgdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxaP0u+dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBxeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAWY29tLmV4YW1wbGUuTm9kZUNvbmZpZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCJAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBxTAAJaW5oZXJpdGVkcQB+AHFMAAdwYXJlbnRzcQB+AHF4cQB+AJBzcQB+AIkBdXEAfgBsAAAAAHBzcQB+AIkBdXEAfgBsAAAAAHBzcQB+AIkBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCPdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCPc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCpc3EAfgCccQB+AJ9zcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCodAAEamF2YXNxAH4AqHQAAmlvcQB+AK1zcQB+AJx0AAdQcm9kdWN0cQB+AKJzcQB+AJx0AAZFcXVhbHNxAH4AonNxAH4AnHQABk9iamVjdHNxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKhxAH4As3NxAH4AqHQABGxhbmdxAH4ArXNxAH4AnHQAA0FueXEAfgCicHBzcQB+AG5xAH4Ae3VxAH4AfAAAAABzcQB+AH4AdAAWY29tLmV4YW1wbGUuTm9kZUNvbmZpZ3VxAH4AgQAAAAB+cQB+AIN0AAZNb2R1bGV1cQB+AIcAAAAAc3EAfgCJAXEAfgCRcHNxAH4AiQFzcQB+AJNzcQB+AIkBdXEAfgBsAAAAAHBzcQB+AIkBdXEAfgBsAAAAAHBzcQB+AIkBdXEAfgCaAAAABHNxAH4AnHEAfgCfc3EAfgCgc3EAfgCjdXEAfgCmAAAAAnNxAH4AqHEAfgCrcQB+AK1zcQB+AJxxAH4An3NxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKhxAH4As3NxAH4AqHQAAmlvcQB+AK1zcQB+AJxxAH4Au3NxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKhxAH4As3NxAH4AqHEAfgDBcQB+AK1zcQB+AJxxAH4Aw3EAfgDWcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb20uZXhhbXBsZXNxAH4A6nQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTzYWynd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL1VzZXJzL21hc3NpbW8vZ2l0X3JlcG8vYWtrYS9ha2thLWRvY2tlci1jbHVzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTv+/Q7U0JOON7hmKiVabWLpuldHA==
+external apis:
+0 items
+source infos:
+4 items
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> 
+AAAAAAAAAAA=
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/Main.scala -> 
+AAAAAAAAAAA=
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> 
+AAAAAAAAAAA=
+/Users/massimo/git_repo/akka/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTzV6/vN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9tYXNzaW1vL2dpdF9yZXBvL2Fra2EvYWtrYS1kb2NrZXItY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTzYWynd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9tYXNzaW1vL2dpdF9yZXBvL2Fra2EvYWtrYS1kb2NrZXItY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
